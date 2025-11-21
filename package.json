@@ -1,0 +1,13 @@
+{
+  "name": "jasmin-lopez-lurilla",
+  "version": "1.0.0",
+  "description": "BSBA 4102  Makeup by Jasmin",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
